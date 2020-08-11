@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: 프로그래밍 시작하기
 seoTitle: 타이틀
 seoDescription: 설명
 isFree: true
